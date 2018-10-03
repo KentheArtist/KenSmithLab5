@@ -1,0 +1,44 @@
+  body {
+   background-image: url("images/newearth.jpg");
+   background-color: #000028 ;
+}
+
+h1
+{
+	font-family: 'Audiowide', cursive;
+	color : white ;
+	text-align: center ;
+
+}
+
+p
+{
+    font-family: 'Lato', sans-serif;
+	color : white ;
+	text-align: left ;
+}
+
+th
+{
+	font-family: 'Audiowide', cursive;
+	background-color: #B0E0E6;
+	color : #000044 ;
+    border: 2px white
+	text-align: center ;
+}
+
+td
+{
+    font-family: 'Lato', sans-serif;
+	color : white ;
+	text-align: center ;
+}
+
+table#data tr.center td
+{   
+    background-color: #000066;
+	height : 30px ;
+	text-align : center ;
+	width: 600px ;
+	border : 10px white ;	
+}
